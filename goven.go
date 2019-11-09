@@ -18,6 +18,7 @@ import (
 )
 
 // ImportCheck function
+// usage e.g goven.ImportCheck()
 func ImportCheck() {
 	fmt.Println("goven imported!")
 }
