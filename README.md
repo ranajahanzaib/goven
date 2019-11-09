@@ -1,2 +1,2 @@
 # goven
-A go library for inventory management systems.
+A Go Library for inventory management systems.
